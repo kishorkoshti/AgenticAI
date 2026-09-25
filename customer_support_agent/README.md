@@ -149,6 +149,3 @@ ticket ID to the customer and the ticket is appended to
 - Plug `create_ticket` into Zendesk / Linear / your real ticketing
   system.
 
-## 📄 License
-
-MIT — see the repo root [LICENSE](../../LICENSE).

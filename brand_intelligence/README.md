@@ -28,7 +28,7 @@ A powerful AI-powered brand reputation monitoring tool that analyzes news covera
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/Arindam200/awesome-ai-apps/brand-reputation-monitor.git
+clone repository
 cd memory_agents/brand_reputation_monitor
 ```
 
